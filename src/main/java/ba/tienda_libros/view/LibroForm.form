@@ -64,14 +64,14 @@
                   <text value="Libro"/>
                 </properties>
               </component>
-              <component id="72341" class="javax.swing.JTextField" binding="libroTextoTextField" default-binding="true">
+              <component id="72341" class="javax.swing.JTextField" binding="libroTexto">
                 <constraints>
                   <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
                     <preferred-size width="150" height="-1"/>
                   </grid>
                 </constraints>
                 <properties>
-                  <text value="libroTexto"/>
+                  <text value=""/>
                 </properties>
               </component>
             </children>
@@ -92,14 +92,14 @@
                   <text value="Autor"/>
                 </properties>
               </component>
-              <component id="ae25a" class="javax.swing.JTextField" default-binding="true">
+              <component id="ae25a" class="javax.swing.JTextField" binding="autorTexto">
                 <constraints>
                   <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
                     <preferred-size width="150" height="-1"/>
                   </grid>
                 </constraints>
                 <properties>
-                  <text value="autorTexto"/>
+                  <text value=""/>
                 </properties>
               </component>
             </children>
@@ -120,14 +120,14 @@
                   <text value="Precio"/>
                 </properties>
               </component>
-              <component id="940e2" class="javax.swing.JTextField" binding="precioTextoTextField" default-binding="true">
+              <component id="940e2" class="javax.swing.JTextField" binding="precioTexto">
                 <constraints>
                   <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
                     <preferred-size width="150" height="-1"/>
                   </grid>
                 </constraints>
                 <properties>
-                  <text value="precioTexto"/>
+                  <text value=""/>
                 </properties>
               </component>
             </children>
@@ -148,14 +148,14 @@
                   <text value="Existencias"/>
                 </properties>
               </component>
-              <component id="b916e" class="javax.swing.JTextField" binding="existenciasTextoTextField" default-binding="true">
+              <component id="b916e" class="javax.swing.JTextField" binding="existenciasTexto">
                 <constraints>
                   <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
                     <preferred-size width="150" height="-1"/>
                   </grid>
                 </constraints>
                 <properties>
-                  <text value="existenciasTexto"/>
+                  <text value=""/>
                 </properties>
               </component>
             </children>
